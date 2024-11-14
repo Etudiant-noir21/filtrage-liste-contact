@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+input{
+    outline: none;
+    
+}
+#liste li{
+    box-shadow: 2px 3px 2px 3px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
